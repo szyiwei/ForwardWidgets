@@ -4,26 +4,6 @@
   "icon": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/icon.png",
   "widgets": [
     {
-      "id": "91porn",
-      "title": "91Porn",
-      "description": "在线观看91Porn视频",
-      "requiredVersion": "0.0.1",
-      "version": "0.9.4",
-      "author": "Baran",
-      "url": "https://for-ward.vercel.app/Widgets/91porn.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/nsfw.91porn.js"
-    },
-    {
-      "id": "missav",
-      "title": "MissAV",
-      "description": "\u83b7\u53d6 MissAV \u63a8\u8350",
-      "requiredVersion": "0.0.2",
-      "version": "1.0.0",
-      "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "url": "https://for-ward.vercel.app/Widgets/MissAV.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/missav.js"
-    },
-    {
       "id": "jable",
       "title": "Jable",
       "description": "在线观看Jable视频",
@@ -62,26 +42,6 @@
       "author": "海带",
       "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js",
       "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/pornhub.js"
-    },
-    {
-      "id": "unknow.baranwang.xvideos",
-      "title": "XVideos",
-      "description": "在线观看Xvideos视频",
-      "requiredVersion": "0.0.1",
-      "version": "0.9.4",
-      "author": "Baran",
-      "url": "https://for-ward.vercel.app/Widgets/xvideos.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/unknow.baranwang.xvideos.js"
-    },
-    {
-      "id": "hanime1_me_style",
-      "title": "Hanime1",
-      "description": "获取 Hanime1 动画，折扣码gold",
-      "requiredVersion": "0.0.2",
-      "version": "2.1.1",
-      "author": "gr294949",
-      "url": "https://for-ward.vercel.app/Widgets/hanime1.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/hanime1_me_style.js"
     },
     {
       "id": "Bitch",
