@@ -48,6 +48,33 @@
       "author": "Evan",
       "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
     },
+    {   
+      "id": "jp_vod_full",
+      "title": "金牌影院",
+      "description": "金牌影院在线资源获取",
+      "requiredVersion": "0.0.2",
+      "version": "1.1.0",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/jpyy.js"
+    },
+    {
+      "id": "rr_vod_full",
+      "title": "人人美剧",
+      "description": "获取人人美剧在线资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/rrmj.js"
+    },
+    {
+      "id": "vod_stream",
+      "title": "VOD Stream",
+      "description": "获取聚合VOD影片资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.1",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
+    },
     {
       "id": "ti.bemarkt.vod.maccms",
       "title": "VOD",
