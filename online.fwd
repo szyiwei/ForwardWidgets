@@ -22,15 +22,6 @@
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
     },
     {
-      "id": "baranwang.danmu.universe",
-      "title": "通用弹幕",
-      "description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩等平台",
-      "requiredVersion": "0.0.2",
-      "version": "0.0.16",
-      "author": "Baran",
-      "url": "https://unpkg.com/@forward-widget/danmu-universe"
-    },
-    {
       "id": "hot_picks",
       "title": "热门精选",
       "description": "获取最新热播剧和热门影片推荐",
@@ -103,26 +94,6 @@
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
     },
     {
-      "id": "jable",
-      "title": "Jable",
-      "description": "在线观看Jable视频",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.8",
-      "author": "nibiru",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/🔞 jable.js"
-    },
-    {
-      "id": "ti.bemarkt.javday",
-      "title": "JavDay",
-      "description": "在线观看JavDay视频",
-      "requiredVersion": "0.0.1",
-      "version": "1.1.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/ti.bemarkt.javday.js"
-    },
-    {
       "id": "ti.bemarkt.javrate",
       "title": "JavRate",
       "description": "在线观看JavRate视频",
@@ -131,26 +102,6 @@
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js",
       "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/ti.bemarkt.javrate.js"
-    },
-    {
-      "id": "Pornhub",
-      "title": "PornHub",
-      "description": "在线观看PornHub视频",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.5",
-      "author": "海带",
-      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/pornhub.js"
-    },
-    {
-      "id": "Bitch",
-      "title": "Bitch Lives",
-      "description": "🎥 Bitch Lives",
-      "requiredVersion": "0.0.1",
-      "version": "0.0.1",
-      "author": "Discount Code：VEUS",
-      "url": "https://gist.githubusercontent.com/MrRegret/61a5cbf0637b95a0d800994a51860fb2/raw",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/bitch.js"
     }
   ]
 }
