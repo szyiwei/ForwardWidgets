@@ -76,15 +76,6 @@
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
     },
     {
-      "id": "live",
-      "title": "电视/网络直播",
-      "description": "解析各类直播订阅链接",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.8",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
-    },
-    {
       "id": "ti.bemarkt.podcast",
       "title": "Podcast",
       "description": "获取 RSS 播客数据",
@@ -94,14 +85,22 @@
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
     },
     {
-      "id": "ti.bemarkt.javrate",
-      "title": "JavRate",
-      "description": "在线观看JavRate视频",
+      "id": "list",
+      "title": "影视榜单",
+      "description": "影视动画榜单",
+      "requiredVersion": "0.0.2",
+      "version": "1.3.9",
+      "author": "Butterfly",
+      "url": "https://raw.githubusercontent.com/szyiwei/ForwardWidgets/refs/heads/main/widgets/list.js"
+    },
+    {
+      "id": "movie_shows",
+      "title": "热门榜单",
+      "description": "含电影/剧集/动漫/国内综艺",
       "requiredVersion": "0.0.1",
-      "version": "2.1.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js",
-      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/ti.bemarkt.javrate.js"
+      "version": "2.2.6",
+      "author": "crush7s",
+      "url": "https://raw.githubusercontent.com/Cvsly/Forward/refs/heads/main/Widgets/movie_shows.js",
     }
   ]
 }
